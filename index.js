@@ -43,10 +43,19 @@ for(let i = 0; i === 10; i++) {
 // }
 
 // 12
-let sumaPares = 0;
-for(let i = 0; i < 10; i++) {
-    if(i % 2 == 0) {
+// let sumaPares = 0;
+// for(let i = 0; i < 10; i++) {
+//     if(i % 2 == 0) {
         
-    }
-    console.log(sumaPares);
-}
+//     }
+//     console.log(sumaPares);
+// }
+
+// 13 VARIABLES
+let variableValorNumerico = 51;
+
+// 14
+const MiNombre = Carlos;
+
+// 15
+const MiNumeroFav = 5;
