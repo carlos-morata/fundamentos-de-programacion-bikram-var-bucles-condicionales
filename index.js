@@ -71,3 +71,15 @@ let seisNoEsNueve = 6 == 9;
 
 // 19
 let booleanoMix2 = variableValorNumerico < (MiNumeroFav * TAU);
+
+// 20 OPERADORES
+let valorSuma = MiNumeroFav + variableValorNumerico;
+
+// 21
+let valorResta = MiNumeroFav - variableValorNumerico;
+
+// 22
+let valorMultiplicación = MiNumeroFav * variableValorNumerico;
+
+// 23
+let valorDivisión = MiNumeroFav / 3;
