@@ -1,5 +1,5 @@
 // 1 - VARIABLES
-let variableSinValor = "";
+let variableSinValor = "sin valor";
 
 // 2
 let booleano1 = true;
@@ -59,3 +59,15 @@ const MiNombre = Carlos;
 
 // 15
 const MiNumeroFav = 5;
+
+// 16 BOOLEANOS
+let booleanoOr = booleano1 || booleano2;
+
+// 17
+let booleanoMix1 = (booleano1 && (TAU/2 === PI)) || (variableValorNumerico >= MiNumeroFav);
+
+// 18
+let seisNoEsNueve = 6 == 9;
+
+// 19
+let booleanoMix2 = variableValorNumerico < (MiNumeroFav * TAU);
